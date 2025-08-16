@@ -81,7 +81,7 @@ text-sm rounded-lg cursor-pointer'>
 </button>
 </form>
 {/* Right col */}
-<div className='w-full max-w-1g p-4 bg-white rounded-lg flex flex-col border
+<div className='w-full max-w-lg p-4 bg-white rounded-lg flex flex-col border
 border-gray-200 min-h-96 max-h-[600px]'>
 
 <div className='flex items-center gap-3'>
